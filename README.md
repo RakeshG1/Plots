@@ -17,3 +17,5 @@
 - https://www.geeksforgeeks.org/create-a-stacked-bar-plot-in-matplotlib/
 - Sharing Axes
 - https://stackoverflow.com/questions/37930693/how-can-i-make-a-barplot-and-a-lineplot-in-the-same-seaborn-plot-with-different
+- Xaxis-ticks overlap
+- https://stackoverflow.com/questions/49231052/datetime-x-axis-matplotlib-labels-causing-uncontrolled-overlap
